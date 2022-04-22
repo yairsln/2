@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Semana 13 - grupo 6</string>
+    <string name="titulo">Mantenimiento de Alumnos</string>
+    <string name="codigo">Codigo:</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Carrera">Carrera:</string>
+    <string name="Ciclo">Ciclo:</string>
+    <string name="n">Nuevo</string>
+    <string name="g">Grabar</string>
+    <string name="m">Modificar</string>
+    <string name="e">Eliminar</string>
+    <string name="c">Consultar</string>
+</resources>
